@@ -20,7 +20,7 @@
     6.) In Visual Studio, build the project by clicking on Build > Build Solution.
 
     7.) Run the Program: After a successful build, run the program by pressing F5 or clicking on the Start button in          Visual Studio.
-    GPT
+    
 
 # Preloaded Accounts
   The program uses a text file (Accounts.txt) to store and load account data. For the program to function correctly, this   file must be present in the same directory as the executable or specified correctly within the program.
